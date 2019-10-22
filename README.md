@@ -1,4 +1,4 @@
-# Full stack ecommerce online store application by $zack
+# Full stack ecommerce online store application by Zack
 #### Online demo [click here](https://zack-ecommerce-reactjs.herokuapp.com/)
 #### back-end code [click here](https://github.com/levelopers/Ecommerce-Nodejs)
 
