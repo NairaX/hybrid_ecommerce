@@ -1,9 +1,9 @@
-# Full stack ecommerce online store application by Zack
+# Full stack ecommerce online store application
 #### Online demo [click here](https://zack-ecommerce-reactjs.herokuapp.com/)
 #### back-end code [click here](https://github.com/levelopers/Ecommerce-Nodejs)
 
 ## General Info
-There shall be a signup / sign in panel setup to enable new & old user respectively join our ecosystem for trade (commerce).
+Feature a signup/sign-in panel setup to enable new & old user respectively join our ecosystem for trade (commerce).
 At the checkout page, after product selections have been made for trade, traders will be presented with an option for making payment either with our custom cryptocurrency (NIRX) OR with credit card/cash.
 The Admin backend is the receiving end for all payments made, thereby acting as the middleman (both for cash and payments in our custom crypto respectively).
 Further details have been broken down into two parts as follows.
