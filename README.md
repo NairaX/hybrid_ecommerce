@@ -2,7 +2,15 @@
 #### Online demo [click here](https://zack-ecommerce-reactjs.herokuapp.com/)
 #### back-end code [click here](https://github.com/levelopers/Ecommerce-Nodejs)
 
-## General Info 
+## General Info
+There shall be a signup / sign in panel setup to enable new & old user respectively join our ecosystem for trade (commerce).
+At the checkout page, after product selections have been made for trade, traders will be presented with an option for making payment either with our custom cryptocurrency (NIRX) OR with credit card/cash.
+The Admin backend is the receiving end for all payments made, thereby acting as the middleman (both for cash and payments in our custom crypto respectively).
+Further details have been broken down into two parts as follows.
+a.	For payments made with Cash/Credit Cards: It gets credited to our company account (being a default escrow in all businesses carried out). Upon receipt of the payment, we can credit corresponding vendors with agreed cash value after verifications and offline calculations have been settled. Vendors (sellers) will own an ecommerce wallet where they can see how much they have earned, then they can click a button to request a withdrawal in the cash equivalent.
+b.	For payments made in our custom crypto (NIRX): the admin backend receives the payment in NIRX (into our official crypto wallet address): as the middleman & then credit corresponding vendors with the cash equivalent (of payments made by the buyer in form of NIRX) after verifications and offline calculations. Vendors (sellers) will own an ecommerce wallet where they can see how much they have earned, then they can click a button to request a withdrawal in the cash equivalent.
+The admin backend will get a notification upon any withdrawal requests made by ALL vendors from their ecommerce wallet to enable us receive accurate details for cash transfer to the concerned vendor in question, then mark it as DONE.
+ 
 
 front-end: Reactjs, Redux, Axios, Sass, react-bootstrap
 
